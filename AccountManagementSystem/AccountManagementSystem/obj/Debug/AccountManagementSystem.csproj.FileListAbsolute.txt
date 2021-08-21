@@ -1,0 +1,9 @@
+F:\C#\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe.config
+F:\C#\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe
+F:\C#\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.pdb
+F:\C#\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.csprojResolveAssemblyReference.cache
+F:\C#\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.exe
+F:\C#\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.pdb
+C:\Users\Asus\Desktop\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe.config
+C:\Users\Asus\Desktop\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.exe
+C:\Users\Asus\Desktop\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.pdb
